@@ -1,0 +1,15 @@
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\bin\Debug\net7.0\senai_atividade_7a.exe
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\bin\Debug\net7.0\senai_atividade_7a.deps.json
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\bin\Debug\net7.0\senai_atividade_7a.runtimeconfig.json
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\bin\Debug\net7.0\senai_atividade_7a.dll
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\bin\Debug\net7.0\senai_atividade_7a.pdb
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.csproj.AssemblyReference.cache
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.AssemblyInfoInputs.cache
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.AssemblyInfo.cs
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.csproj.CoreCompileInputs.cache
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.dll
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\refint\senai_atividade_7a.dll
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.pdb
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\senai_atividade_7a.genruntimeconfig.cache
+C:\Marcos\Senai Back End\UC9 - Codificação para Back End\SP2\Atividade SP2\Atividade_Senai_7A\senai_atividade_7a\obj\Debug\net7.0\ref\senai_atividade_7a.dll
